@@ -1,0 +1,10 @@
+opencv-python>=4.9.0
+numpy>=1.24.0
+flask>=3.0.0
+werkzeug>=3.0.0
+mediapipe>=0.10.9
+ultralytics>=8.1.0
+torch>=2.1.0
+torchvision>=0.16.0
+onnxruntime>=1.16.0
+pillow>=10.0.0
